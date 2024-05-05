@@ -1,0 +1,1 @@
+Blackjack is a casino banking game where players try to get closer to 21 than the dealer without going over. It's the most popular casino banking game in the world and is part of a family of games called "twenty-one" that also includes pontoon, vingt-et-un, and Ochko.
