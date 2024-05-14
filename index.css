@@ -29,3 +29,15 @@ button{
     font-weight: bold;
     margin: 2px 0px;
 }
+#inst{
+    color: black;
+    text-align: center;
+    list-style: none;
+}
+#player-el{
+    background-color: #016f32;
+    padding: 5px 0px;
+    max-width: 16rem;
+    margin: auto;
+    margin-top: 5px;
+}
